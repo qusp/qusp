@@ -12,7 +12,7 @@
 
 | Useful links | description |
 |--------------|-------------|
-| [QuSP Gateway](https://qusp.mines.edu) | Science gateway of open tools for quantum systems |
+| [QuSP Gateway](https://qusp.mines.edu) | Science gateway of open tools for quantum information science |
 | [Colab Notebook](https://colab.research.google.com/drive/1Gr23cugR6rp3rGrKSiJXnCiNIFt3yBGP?usp=sharing) | Getting started with OpenMPS and QuSP in Colab |
 | [OpenMPS](https://sourceforge.net/projects/openmps/) | Open library for simulating quantum systems using the matrix product states ansatz |
 
