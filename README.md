@@ -18,7 +18,7 @@
 
 ---
 
-1. Try the Colab Notebook to understand the scope of functionality and performance without having to install any software locally.
+1. Try the Colab Notebook to understand the scope of functionality and performance without installing any software locally.
 2. Extend the physical analysis of these systems to larger or more complex Hamiltonians by interfacing with the application module system in QuSP.
 3. Deploy OpenMPS software locally for more customization in the developer workflow.
 
